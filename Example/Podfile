@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JpushWrapper_Example' do
+  pod 'JpushWrapper', :path => '../'
+
+  target 'JpushWrapper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
