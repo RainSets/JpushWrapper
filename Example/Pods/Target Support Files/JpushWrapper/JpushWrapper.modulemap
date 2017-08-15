@@ -1,0 +1,6 @@
+framework module JpushWrapper {
+  umbrella header "JpushWrapper-umbrella.h"
+
+  export *
+  module * { export * }
+}

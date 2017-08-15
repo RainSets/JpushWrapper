@@ -1,0 +1,22 @@
+{
+  "name": "JpushWrapper",
+  "version": "0.1.0",
+  "summary": "A short description of JpushWrapper.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/RainSets/JpushWrapper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RainSets": "Todd.X.Ren.-ND@disney.com"
+  },
+  "source": {
+    "git": "https://github.com/RainSets/JpushWrapper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JpushWrapper/Classes/**/*"
+}
